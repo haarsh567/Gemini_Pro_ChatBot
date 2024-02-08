@@ -5,7 +5,9 @@
 # Gemini Chatbot with Streamlit GUI
 
 
-![Gemini Chatbot Screenshot](download.png)
+<p align="center">
+  <img src="Screenshot%202024-02-09%20004737.png" alt="Gemini_ChatBot" width="600">
+</p>
 
 
 
