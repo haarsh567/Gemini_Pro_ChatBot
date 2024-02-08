@@ -4,7 +4,15 @@
 
 # Gemini Chatbot with Streamlit GUI
 
-Welcome to Gemini Chatbot, a project that utilizes the Google Gemini API to create an interactive chatbot with a beautiful GUI using Streamlit. This chatbot aims to provide conversational AI capabilities similar to ChatGPT, capable of answering a wide range of questions and engaging in natural language conversations.
+![GitHub](https://img.shields.io/github/license/your-username/gemini-chatbot)
+![GitHub last commit](https://img.shields.io/github/last-commit/your-username/gemini-chatbot)
+![GitHub contributors](https://img.shields.io/github/contributors/your-username/gemini-chatbot)
+
+<p align="center">
+  <img src="path/to/your/chatbot-screenshot.png" alt="Gemini Chatbot Screenshot" width="600">
+</p>
+
+Welcome to Gemini Chatbot, a project that seamlessly integrates Google Gemini API to power a conversational AI chatbot with an elegant GUI built using Streamlit. Engage in natural language conversations, ask questions, and explore the capabilities of this user-friendly interface.
 
 ## Features
 
@@ -16,25 +24,25 @@ Welcome to Gemini Chatbot, a project that utilizes the Google Gemini API to crea
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/gemini-chatbot.git
    ```
 
-2. Install the required dependencies:
+2. **Install the required dependencies:**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the Streamlit app:
+3. **Run the Streamlit app:**
 
    ```bash
    streamlit run app.py
    ```
 
-4. Access the chatbot interface through your web browser.
+4. **Access the chatbot interface through your web browser.**
 
 ## Usage
 
@@ -47,16 +55,15 @@ Welcome to Gemini Chatbot, a project that utilizes the Google Gemini API to crea
 
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them to your branch.
-4. Push your changes to your fork.
-5. Submit a pull request to the main repository.
+1. **Fork the repository.**
+2. **Create a new branch for your feature or bug fix.**
+3. **Make your changes and commit them to your branch.**
+4. **Push your changes to your fork.**
+5. **Submit a pull request to the main repository.**
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
 
