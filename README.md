@@ -6,8 +6,9 @@
 
 
 <p align="center">
-  <img src="C:\Users\TUFF\OneDrive\Desktop\download.png" alt="Gemini Chatbot Screenshot" width="600">
+  <img src="C:/Users/TUFF/OneDrive/Desktop/download.png" alt="Gemini Chatbot Screenshot" width="600">
 </p>
+
 
 Welcome to Gemini Chatbot, a project that seamlessly integrates Google Gemini API to power a conversational AI chatbot with an elegant GUI built using Streamlit. Engage in natural language conversations, ask questions, and explore the capabilities of this user-friendly interface.
 
