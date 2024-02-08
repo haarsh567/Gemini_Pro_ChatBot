@@ -5,9 +5,8 @@
 # Gemini Chatbot with Streamlit GUI
 
 
-<p align="center">
-  <img src="C:/Users/TUFF/OneDrive/Desktop/Gemini_pro_chatbot/download.png" alt="Gemini Chatbot Screenshot" width="600">
-</p>
+![Gemini Chatbot Screenshot](download.png)
+
 
 
 
