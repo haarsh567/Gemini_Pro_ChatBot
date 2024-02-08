@@ -4,12 +4,9 @@
 
 # Gemini Chatbot with Streamlit GUI
 
-![GitHub](https://img.shields.io/github/license/your-username/gemini-chatbot)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/gemini-chatbot)
-![GitHub contributors](https://img.shields.io/github/contributors/your-username/gemini-chatbot)
 
 <p align="center">
-  <img src="path/to/your/chatbot-screenshot.png" alt="Gemini Chatbot Screenshot" width="600">
+  <img src="C:\Users\TUFF\OneDrive\Desktop\download.png" alt="Gemini Chatbot Screenshot" width="600">
 </p>
 
 Welcome to Gemini Chatbot, a project that seamlessly integrates Google Gemini API to power a conversational AI chatbot with an elegant GUI built using Streamlit. Engage in natural language conversations, ask questions, and explore the capabilities of this user-friendly interface.
